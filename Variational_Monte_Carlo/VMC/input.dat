@@ -1,0 +1,8 @@
+100
+1000
+0.95
+
+
+	ReadInput>>nblk;
+	Readinput>>nsteps;
+	Readinput>>delta;
